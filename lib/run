@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+from Cli import Cli
+
+cli = Cli()
+cli.start()
